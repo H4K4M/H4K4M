@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @H4K4M
 - 👀 I’m interested in you
 - 🌱 I’m currently a Computer Engineering student
-- 📫 How to reach me    
-          *magnitar123@gmail.com
+- 📫 How to reach me :  magnitar123@gmail.com  
+
           
 
 <!---
