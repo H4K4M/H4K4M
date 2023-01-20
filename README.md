@@ -2,7 +2,9 @@
 - 👋 Hi, I’m Hakam Chedo 
 - 👀 I’m interested in you
 - 🌱 I’m currently a Computer Engineering student 3rd year
-- 
+# My Contacs
+* magnitar123@gmail.com
+* ha-kam009@hotmail.com
 # 🛠️ Progamming Tools:
 <div id="badges">
   <img src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
