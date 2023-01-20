@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Hakam Chedo 
 - 👀 I’m interested in you
 - 🌱 I’m currently a Computer Engineering student 3rd year
-# My Contacs
+# My Contacts
 * magnitar123@gmail.com
 * ha-kam009@hotmail.com
 # 🛠️ Progamming Tools:
