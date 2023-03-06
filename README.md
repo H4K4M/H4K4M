@@ -23,7 +23,7 @@
   
  </div>
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=H4K4M&show_icons=true&theme=vue-dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H4K4M&theme=dark&show_icons=true)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H4K4M&theme=vue-dark)
 <!---
 H4K4M/H4K4M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
