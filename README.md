@@ -1,7 +1,7 @@
 # My profile
 - 👋 Hi, I’m Hakam Chedo 
 - 👀 I’m interested in you
-- 🌱 I’m currently a Computer Engineering student 3rd year
+- 🌱 I’m …
 # My Contacts
 * magnitar123@gmail.com
 * ha-kam009@hotmail.com
